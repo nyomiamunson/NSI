@@ -1,0 +1,94 @@
+body {
+  background-image: url("file:///C:/Users/Vanilla/Desktop/bWI.PNG");
+  margin-top: 52px;
+  padding: 30px;
+
+}
+
+h2 {
+  font-family: 'Courier New', monospace;
+  color: grey;
+  font-size: 52px;
+}
+
+h4 {
+  font-family: 'Courier New', monospace;
+  color: grey;
+}
+
+.topnav{
+  margin-left: -10px;
+  margin-right: -10px;
+  margin-bottom: 20px;
+  background-color: white;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 0px;
+  height: 60px;
+}
+
+.topnav a {
+  color: black;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  text-decoration: none;
+  padding-top: 50px;
+  font-size: 17px;
+  font-family: 'Courier New', monospace;
+   line-height: 50px;
+}
+
+li {
+  display: inline;
+  padding-right: 10px;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style-type: none;
+  height: 100px;
+}
+
+#H{
+  background-color: #E6E6FA;
+}
+
+#H:hover {
+  background-color: #bfbff2;
+}
+
+#A{
+  background-color:#FFE4E1;
+}
+
+#A:hover {
+  background-color: #ffbab3;
+}
+
+#I{
+   background-color:#e6ffe6;
+}
+
+#I:hover {
+  background-color: #9dfb9d;
+}
+
+#R{
+   background-color: #ecdfec;
+}
+
+#R:hover {
+  background-color: #cfafcf;
+}
+
+p {
+  font-family: 'Courier New', monospace;
+  color: #000000;
+  font-size: 13p
+}
