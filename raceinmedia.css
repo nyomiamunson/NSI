@@ -2,17 +2,6 @@ body {
   background-image: url("file:///C:/Users/Vanilla/Desktop/bWI.PNG");
 }
 
-h2 {
-  font-family: 'Courier New', monospace;
-  color: grey;
-  font-size: 52px;
-}
-
-h4 {
-  font-family: 'Courier New', monospace;
-  color: grey;
-}
-
 .navbar{
   /*margin-left: -10px;
   margin-right: -10px;
@@ -166,8 +155,7 @@ h4 {
   display: block;
 }
 
-p {
+h2 {
   font-family: 'Courier New', monospace;
-  color: #000000;
-  font-size: 13p
+  color: #999999;
 }
