@@ -1,14 +1,9 @@
-body {
-  background-image: url("file:///C:/Users/Vanilla/Desktop/bWI.PNG");
+/*originally buttons page for Info Homepage*/
+#infoNav{
   font-family: 'Courier New', monospace;
-  margin: 0;
-}
-
-.b{
-  font-family: 'Courier New', monospace;
-  text-decoration: none;
-  font-size: 14px;
-  color: grey;
+  /*font-size: 50px;*/
+  color: #999999;
+  font-size: 40px;
 }
 
 .navbar{
@@ -164,33 +159,24 @@ body {
   display: block;
 }
 
-h2 {
+/*background of page*/
+body {
+  background-image: url("file:///C:/Users/Vanilla/Desktop/bWI.PNG");
   font-family: 'Courier New', monospace;
-  color: #999999;
-  margin-left: 2%;
-  font-size: 28px;
 }
 
-h4 {
-  font-family: 'Courier New', monospace;
-  color: #999999;
-  margin-left: 4%;
-  font-size: 18px;
+.vir{
+  align: center;
+}
+.dam:hover {
+  transform: scale(1.5);
+}
+.mar:hover {
+  transform: scale(1.4);
 }
 
-boox{
-  padding-top: 10px;
-  padding-left:20px;
-  padding-bottom:10px;
-}
-
-img{
-  vertical-align: middle;
-
-}
-
-.booxhead{
-  font-family: 'Courier New', monospace;
-  font-size: 25px;
-  color: grey;
-}
+/*menu page 2 buttons design*/
+/*.buttunz{
+  justify-content: center;
+  background-color: #4CAF50;
+}*/

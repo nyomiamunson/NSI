@@ -1,14 +1,5 @@
 body {
   background-image: url("file:///C:/Users/Vanilla/Desktop/bWI.PNG");
-  font-family: 'Courier New', monospace;
-  margin: 0;
-}
-
-.b{
-  font-family: 'Courier New', monospace;
-  text-decoration: none;
-  font-size: 14px;
-  color: grey;
 }
 
 .navbar{
@@ -104,7 +95,7 @@ body {
   background-color: #ffbab3;
 }
 
-.navbar a:hover, .drop:hover .button {
+.navbar a:hover, .droppin:hover .dropbutton {
   background-color: #e6ffe6;
 }
 
@@ -176,21 +167,4 @@ h4 {
   color: #999999;
   margin-left: 4%;
   font-size: 18px;
-}
-
-boox{
-  padding-top: 10px;
-  padding-left:20px;
-  padding-bottom:10px;
-}
-
-img{
-  vertical-align: middle;
-
-}
-
-.booxhead{
-  font-family: 'Courier New', monospace;
-  font-size: 25px;
-  color: grey;
 }
